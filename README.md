@@ -1,5 +1,5 @@
 
-"Netflix Movies and TV shows Dashboard"
+#"Netflix Movies and TV shows Dashboard"
 
 I created an interactive Netflix I created an interactive Netflix Dashboard using Power BI to analyze and visualize Netflix content data in a clear and user-friendly format. The dashboard provides a complete overview of Netflix’s catalog, showing key insights such as total titles, ratings count, genres, release years, countries, and content types (Movies vs TV Shows).
 
